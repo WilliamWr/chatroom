@@ -3,7 +3,8 @@
 
 
 
-
+//This was attempt
+// our group attempt is below as well as an attempt at the api. 
 // $(window).load(function() {
 counter = 0
 $(function(){
